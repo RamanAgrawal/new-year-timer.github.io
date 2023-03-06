@@ -14,10 +14,7 @@
 
 ## Project Preview 
 
-- Click Below Link <br><br>
-[Click View Project](https://mian-ali.github.io/RealTime-NewYear-Countdown/) <br>
+- 
 
-#### Project Broswer URL<br>
-https://mian-ali.github.io/RealTime-NewYear-Countdown/
 
 
