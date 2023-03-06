@@ -12,7 +12,6 @@
 - Show a spinner right before loading the countdown;<br>
 - Show the coming year in the background ;<br>
 
-## Project Preview 
 
 - 
 
